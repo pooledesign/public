@@ -1,6 +1,6 @@
 <%@ Page Language="C#" %>
 <script runat="server">
-    lbl1.Text = "this";
+    // test
 </script>
 
 
