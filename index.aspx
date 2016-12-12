@@ -1,4 +1,4 @@
-<%@ Page Language="C#" %>
+<%@ Page Language="C#"  AutoEventWireup="true" CodeBehind="index.aspx.cs" %>
 <script runat="server">
     // test
     //if(wind)
@@ -11,7 +11,7 @@
    </head>
 
 <body>
-    <form runat="server">
+    <form runat="server" >
         <asp:label id="lbl1" runat="server" />
     </form>
 </body>
