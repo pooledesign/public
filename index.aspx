@@ -9,7 +9,7 @@
    </head>
 
 <body>
-    <form runat="server" >
+    <form id="disdaform" runat="server" >
         <asp:label id="lbl1" runat="server" />
     </form>
 </body>
