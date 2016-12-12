@@ -1,1 +1,4 @@
-@ali-o.com
+TXT Host	TXT Value
+ali-o.com	@	benpoole.azurewebsites.net
+www.ali-o.com	www	benpoole.azurewebsites.net
+*.ali-o.com	*	benpoole.azurewebsites.net
