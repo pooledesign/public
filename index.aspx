@@ -12,7 +12,7 @@
 
 <body>
     <form runat="server">
-        hello, there. 12345.
+        <asp:label id="lbl1" text="hello, there. 12345." runat="server" />
     </form>
 </body>
 </html>
